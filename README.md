@@ -52,7 +52,7 @@ Now for the next request it will return the error formatted for the invalid cpf 
 Clone this repository
 
 ```
-git clone https://github.com/dev-gabrielferreira/Simple-loan-checker.git
+git clone https://github.com/gabrielferreira02/Simple-loan-checker.git
 ```
 
 Go to the directory
